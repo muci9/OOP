@@ -1,18 +1,18 @@
 # Assignment 5-6
-OOP - Assignement 5-6<br/>
-Name: Grave Matters<br/>
-Description:<br/>
+<h2>OOP - Assignement 5-6</h2><br/>
+<h3>Name:</h3> Grave Matters<br/>
+<h3>Description:</h3><br/>
 	Application for managing a morgue database with a twist.<br/>
 	It's an console-base application with a CLI. It recognises the following<br/>
-Commands:<br/>
+<h3>Commands:</h3><br/>
 	mode X - A is for administrator, B is for assitant<br/>
 	exit<br/>
-	Administrator commands:<br/>
+	<h4>Administrator commands:</h4><br/>
 		add name, origin, age, imageName - add a new profile<br/>
 		delete name - delete a profile<br/>
 		update name, newOrigin, newAge, newImageName - update a profile<br/>
 		list - display all profiles<br/>
-	Assistant commands:<br/>
+	<h4>Assistant commands:</h4><br/>
 		This are a little bit weirder, because the assignment is part<br/>
 	of a story involving a serial killer. :))<br/>
 		next - display the next profile, the assistant can only see 1 profile at a time<br/>
