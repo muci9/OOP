@@ -14,9 +14,9 @@
 		list - display all profiles<br/>
 	<h4>Assistant commands:</h4><br/>
 		This are a little bit weirder, because the assignment is part<br/>
-	of a story involving a serial killer. :))<br/>
+	of a story involving a series of killings. :))<br/>
 		next - display the next profile, the assistant can only see 1 profile at a time<br/>
-		save name - transfer the profile to a different repository consisting of profiles with no connection to the serial killer<br/>
+		save name - transfer the profile to a different repository consisting of profiles with no connection to the series of killings.<br/>
 		list [origin,] age - display only profiles with the requeste origin and age less or equal to one give, origin is an optional parameter<br/>
 		mylist - display all transferred profiles<br/>
 
