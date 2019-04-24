@@ -5,7 +5,7 @@
 	Application for managing a morgue database with a twist.<br/>
 	It's an console-base application with a CLI. It recognises the following<br/>
 <h3>Commands:</h3><br/>
-	mode X - A is for administrator, B is for assitant<br/>
+	mode X - A is for administrator, B is for assistant<br/>
 	exit<br/>
 	<h4>Administrator commands:</h4><br/>
 		add name, origin, age, imageName - add a new profile<br/>
